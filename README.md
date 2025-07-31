@@ -51,10 +51,13 @@ CSV as the data source
 📂 File Structure
 
 SQL_project_1/
+
 │
-├── data.csv                # Raw dataset (make sure to keep this in .gitignore if large)
-├── SQL_project_1.sql       # All SQL queries and operations
-├── README.md               # This file
+├── data.csv  
+
+├── SQL_project_1.sql  
+
+├── README.md             
 
 -----------------------------------------------------------------------------------------------------------------------
 
